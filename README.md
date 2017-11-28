@@ -1,1 +1,1 @@
-xiaomi-index.html/xiaomi/index/html
+xiaomi/xiaomi/index/html
