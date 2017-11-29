@@ -1,1 +1,1 @@
-xiaomi/xiaomi/index.html
+https://tmrxiaoxiao.github.io/xiaomi-xiaomi/xiaomi/index.html
